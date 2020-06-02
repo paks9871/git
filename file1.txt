@@ -1,1 +1,3 @@
 modifying file1.txt
+doing for diff command
+doing for diff command 2nd time
